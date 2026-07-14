@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ourfantasyworld.aternos.me",
+    "ip": "ourfantasyworld.aternos.me:38179",
     "port": 38179,
     "version": "1.20.1",
     "try-creative": false
