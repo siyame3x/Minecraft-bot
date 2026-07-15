@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ultimateparaffin.aternos.me",
+    "ip": "ultimateparaffin.aternos.me:51989",
     "port": 51989,
     "version": "1.20.1",
     "try-creative": false
